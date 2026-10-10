@@ -14,6 +14,3 @@ Schematics and PCB designs for an ESP32-based Bluetooth capacative touch board.
 
 ## Initial Layout:
 ![layout](./assets/layout.png)
-
-## Initial Routing:
-![routing](./assets/initial_routing.png)
