@@ -1,5 +1,5 @@
 # EinkFootPedal
-Schematics and PCB designs for an ESP32-based Bluetooth capacative touch board. 
+Schematics and PCB designs for a 4-layer ESP32-based Bluetooth capacative touch board. 
 
 ## Features
 * 3.3V Buck boost regulator using a TP63020 IC
